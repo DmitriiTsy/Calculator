@@ -1,6 +1,6 @@
 import Wrapper from "./components/Wrapper/Wrapper";
 import Screen from "./components/Screen/Screen";
-import ButtonWrapper from "./components/ButtonBox/ButtonWrapper";
+import ButtonWrapper from "./components/ButtonWrapper/ButtonWrapper";
 import Button from "./components/Button/Button";
 
 import React, { useState } from 'react'
